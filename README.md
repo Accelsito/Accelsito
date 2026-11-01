@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cyberpunk-capri-cyberpunk.gif" alt="Banner" width="800">
+  <img src="cyberpunk-capri-cyberpunk.gif" alt="Banner" width="600">
 </p>
 
 # 👋 Hola, soy Accel
