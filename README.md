@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="cyberpunk-capri-cyberpunk.gif" alt="Banner" width="400">>
+  <img src="cyberpunk-capri-cyberpunk.gif" alt="Banner" width="800">
 </p>
 
-# 👋 Hola, soy Nicolás Rodriguez Suárez
+# 👋 Hola, soy Accel
 
 ## 📋 Sobre mí
 
